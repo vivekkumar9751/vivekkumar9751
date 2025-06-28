@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [smart-doc-assistant](https://github.com/vivekkumar9751/smart-doc-assistant.git)
 
-- 🌱 I’m currently learning **Currently learning advanced data analysis using Python, SQL, and Tableau to turn data into actionable insights.**
+- 🌱 **Currently learning advanced data analysis using Python, SQL, and Tableau to turn data into actionable insights.**
 
 - 👯 I’m looking to collaborate on [superstore-sales-insights](https://github.com/vivekkumar9751/superstore-sales-insights-project.git)
 
