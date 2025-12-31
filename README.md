@@ -1,17 +1,69 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">Transforming Data into Decisions with Purpose</h3>
+<h3 align="center">Healthcare Data Analyst | Revenue Cycle Management (RCM) | Data-Driven Problem Solver</h3>
 
-- 🔭 I’m currently working on [smart-doc-assistant](https://github.com/vivekkumar9751/smart-doc-assistant.git)
+<p align="center">
+Transforming healthcare data into actionable insights through analytics, automation, and domain-driven solutions.
+</p>
 
-- 🌱 **Currently learning advanced data analysis using Python, SQL, and Tableau to turn data into actionable insights.**
+---
 
-- 👯 I’m looking to collaborate on [superstore-sales-insights](https://github.com/vivekkumar9751/superstore-sales-insights-project.git)
+### 👨‍⚕️ About Me
 
-- 🤝 I’m looking for help with [sales-forecasting-dynamic-pricing](https://github.com/vivekkumar9751/sales-forecasting-dynamic-pricing.git)
+- 🔍 Currently building **end-to-end Healthcare Revenue Cycle Management (RCM) systems** — from patient registration to claim adjudication.  
+- 🧠 Strong understanding of **healthcare workflows**, including eligibility, ICD-10 coding, CPT mapping, claim scrubbing, and reimbursement logic.  
+- 📊 Passionate about converting complex healthcare data into **meaningful insights for decision-making**.  
+- 🧪 Hands-on experience with **SQL, Python, FastAPI, and data visualization tools**.  
 
-- 💬 Ask me about **data analysis, Python, SQL, and how I use data to find insights.**
+---
 
-- 📫 How to reach me **vk092731@gmail.com**
+### 🚀 Current Projects
+
+- 🔭 **Healthcare RCM System**  
+  End-to-end simulation of patient registration, eligibility checks, claim submission, and adjudication.  
+  👉 https://github.com/vivekkumar9751/baselevel-RCM  
+
+- 📊 **Healthcare Analytics & KPI Dashboard**  
+  SQL-driven analytics project focused on AR aging, LOS, and revenue trends.  
+
+- 🤖 **Smart Document Assistant**  
+  AI-based document processing using NLP and LLM concepts.  
+
+---
+
+### 🧠 What I’m Learning & Improving
+- Advanced **Healthcare Analytics & Revenue Cycle Optimization**
+- SQL performance tuning and complex queries  
+- Data validation & audit logic for enterprise systems  
+- Building scalable backend services with FastAPI  
+
+---
+
+### 🤝 Open to Collaborate On
+- Healthcare analytics & reporting projects  
+- RCM automation and workflow optimization  
+- Data-driven healthcare solutions  
+
+---
+
+### 💬 Ask Me About
+- Healthcare data workflows (RCM, claims, billing)  
+- SQL & analytics for business insights  
+- Turning raw data into dashboards & decisions  
+
+---
+
+### 📫 Reach Me At
+📧 **vivek.analyst.07@gmail.com**
+
+---
+
+### 🌟 Motto
+> *“Data tells the story — insight drives the decision.”*
+
+---
+
+⭐ Feel free to explore my repositories and connect — always open to learning and collaboration!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
